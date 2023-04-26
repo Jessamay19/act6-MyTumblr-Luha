@@ -4,7 +4,7 @@ session_start();
 
 //create pre defined username and password 
 
-$acc_username = "Jessamay";
+$acc_username = "Jessamay19";
 $acc_password = "jessamay19";
 $acc_fullname = "Jessamay Luha";
 $acc_address = "Province of Marinduque";
@@ -115,12 +115,6 @@ if (isset($_REQUEST['login_button']) === true){
 	            	<button type="submit" class="btn btn-primary rounded submit p-3 px-5" name="login_button">Get Started</button>
 	            </div>
 	          </form>
-
-
-
-
-
-
 
 	        </div>
 				</div>
